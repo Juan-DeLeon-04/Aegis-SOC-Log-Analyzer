@@ -2,6 +2,7 @@
 A security log analysis application that processes Excel files and generates PDF reports. 
 
 OVERVIEW
+
 Aegis is an application designed to assist Security Operations Center (SOC) analysts in reviewing and interpreting security logs. 
 
 The application receives log files in Excel format, analyzes their contents, and generates downloadable PDF reports containing the analysis results. 
@@ -30,3 +31,7 @@ How to run
 6. Generate and download the PDF report.
 
 SCREENSHOTS
+
+AUTHOR
+Juan-DeLeon-04
+www.linkedin.com/in/juan-de-leon-5bb359433
