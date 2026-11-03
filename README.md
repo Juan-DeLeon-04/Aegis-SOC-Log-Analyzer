@@ -64,13 +64,7 @@ The PDF report contains findings, supporting event evidence, criticality, techni
 - This is a single-user MVP. It does not include authentication, role-based access control, persistent case storage, audit logging, multi-tenant isolation, or production deployment hardening.
 - Use sanitized or synthetic data during demonstrations and development.
 
-## Suggested next development steps
 
-1. Add dedicated parsers and field mappings for Microsoft Sentinel, Splunk, QRadar, Elastic, Wazuh, and other sources.
-2. Add MITRE ATT&CK technique IDs, detection confidence, and rule references.
-3. Add analyst workflow: triage status, comments, owner assignment, and case history.
-4. Add configurable detection packs and environment-specific baselines.
-5. Add authentication, access controls, audit logging, persistence, and deployment hardening before multi-user or production use.
 
 ## Appearance customization
 
