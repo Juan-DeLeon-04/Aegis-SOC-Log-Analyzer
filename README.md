@@ -1,4 +1,4 @@
-# Aegis SIEM — Security Analytics Workbench
+<img width="1017" height="696" alt="Screenshot 2026-11-03 152446" src="https://github.com/user-attachments/assets/0d04ad6f-d24e-441c-91df-9d24c4f261c8" /># Aegis SIEM — Security Analytics Workbench
 
 A local-first Streamlit application for reviewing SIEM log exports from Excel. It provides column mapping, explainable heuristic detections, an interactive dashboard, event exploration, English/Spanish interface text, bilingual technical-report narratives, and PDF export.
 
@@ -39,7 +39,26 @@ This Windows bundle explicitly uses 64-bit Python 3.10 (`py -3.10`) so the Pytho
 5. Run the analysis and use the single-page workspace navigation to switch between Command Center, Findings, Event Explorer, Reporting Center, and Data & Rules. Only the selected workspace page is rendered; navigation stays in the same browser tab.
 6. Export filtered events or findings as CSV, or generate the technical PDF report.
 
-The included `sample_logs.xlsx` is synthetic test data. It contains intentionally simulated authentication failures, a later successful login, a suspicious PowerShell command, a log-clearing signal, network fan-out, and large outbound transfer activity. Use it to explore the app before testing with real logs.
+
+<img width="1022" height="696" alt="Screenshot 2026-11-03 152418" src="https://github.com/user-attachments/assets/88873cd9-e75e-4add-84a3-125a97942e97" />
+
+<img width="1017" height="696" alt="Screenshot 2026-11-03 152446" src="https://github.com/user-attachments/assets/0fe41705-d3c2-414e-9106-5a6fe1e48280" />
+
+<img width="1020" height="693" alt="Screenshot 2026-11-03 152509" src="https://github.com/user-attachments/assets/4950d317-e352-4d5e-b733-59c4ce80d44a" />
+
+<img width="1023" height="699" alt="Screenshot 2026-11-03 152531" src="https://github.com/user-attachments/assets/94cf7bb3-d41f-4533-a5c9-63904adda017" />
+
+<img width="984" height="486" alt="Screenshot 2026-11-03 152729" src="https://github.com/user-attachments/assets/7b8293ad-bcce-4fd7-a877-752ffb821ef2" />
+
+<img width="872" height="518" alt="Screenshot 2026-11-03 153028" src="https://github.com/user-attachments/assets/a7d7cc52-90cb-46f9-b8db-30b22859dfc6" />
+
+
+
+
+
+
+
+
 
 ## Included detection logic
 
