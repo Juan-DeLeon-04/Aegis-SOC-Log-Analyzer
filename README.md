@@ -106,3 +106,10 @@ The current interface uses in-place workspace navigation rather than Streamlit t
 The **Data & Rules** page owns workbook upload, worksheet selection, column mapping, and analysis execution. The uploaded workbook bytes and completed analysis are retained in the local Streamlit session when moving between workspace pages. Detection thresholds remain available in the sidebar.
 
 To apply this update to an existing installation, stop Aegis with `Ctrl+C`, replace the existing `app.py` with the updated file, and run `run_windows.bat` again. No dependency installation is required.
+
+## References and additional info
+
+[Aegis_SIEM_Developer_and_Attribution_Guide.pdf](https://github.com/user-attachments/files/34340146/Aegis_SIEM_Developer_and_Attribution_Guide.pdf)
+
+
+
