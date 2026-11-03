@@ -24,7 +24,7 @@ TECHNOLOGIES USED
 
 How to run
 1. Clone the repository
-2. Install the required dependencies
+2. Install the required dependencies by running the "setup_windows.bat"
 3. Run the "run_windows.bat"
 4. Upload an Excel log file
 5. Review the analysis
