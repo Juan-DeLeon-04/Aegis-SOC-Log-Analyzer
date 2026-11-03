@@ -1,4 +1,4 @@
-<img width="1017" height="696" alt="Screenshot 2026-11-03 152446" src="https://github.com/user-attachments/assets/0d04ad6f-d24e-441c-91df-9d24c4f261c8" /># Aegis SIEM — Security Analytics Workbench
+# Aegis SIEM — Security Analytics Workbench
 
 A local-first Streamlit application for reviewing SIEM log exports from Excel. It provides column mapping, explainable heuristic detections, an interactive dashboard, event exploration, English/Spanish interface text, bilingual technical-report narratives, and PDF export.
 
